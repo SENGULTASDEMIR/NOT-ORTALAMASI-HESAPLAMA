@@ -1,4 +1,4 @@
-﻿# NOT-ORTALAMASI-HESAPLAMA
+﻿# PATİKA ÖDEVLER
 import java.util.Scanner;
 
 public class Main {
